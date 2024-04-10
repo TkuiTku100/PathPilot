@@ -15,6 +15,7 @@ To get started with the Path Pilot project, you will need to download the files 
 Before you can run the notebook, ensure you have the following:
 
 - A Databricks account.
+- A working API key from Gemini
 
 ### Installation and Setup
 
