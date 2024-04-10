@@ -47,4 +47,4 @@ After setting up your credentials in the notebook:
 
 1. **Execute the Notebook**: Run each cell in the notebook sequentially. The notebook will perform data analysis, model training, and generate career path recommendations based on the input data.
 
-2. **View Results**: The output will be saved to the path you specified in the `OUTPUT_PATH`, and will be printed out in the notebook itself. Review the results to understand the career path recommendations.
+2. **View Results**: The output will be saved to the path you specified in the `path_to_output`, and will be printed out in the notebook itself. Review the results to understand the career path recommendations.
