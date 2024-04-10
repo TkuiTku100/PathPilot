@@ -33,7 +33,7 @@ Ensure you follow the Databricks documentation for uploading data and running no
 
 ## Project Structure
 
-- `Notebook/`: Contains the Jupyter Notebook to be run on Databricks.
+- `notebook_path_pilot.ipynb`: Contains the Jupyter Notebook to be run on Databricks.
 - `profiles_test_data.csv`: Initial user profiles dataset, with answers from personality questionnaire.
 - `urls_and_skills_2.csv`: Dataset containing URLs and scraped skills.
 - `final_data.csv`: Enhanced profiles_test_data.csv with career goals (from the API) and intermediate positions (from the MML model) included.
