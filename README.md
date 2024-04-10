@@ -30,6 +30,16 @@ Before you can run the notebook, ensure you have the following:
 
 Ensure you follow the Databricks documentation for uploading data and running notebooks if you encounter any issues during these steps.
 
+## Project Structure
+
+- `Notebook/`: Contains the Jupyter Notebook to be run on Databricks.
+- `profiles_test_data.csv`: Initial user profiles dataset, with answers from personality questionnaire.
+- `urls_and_skills_2.csv`: Dataset containing URLs and scraped skills.
+- `final_data.csv`: Enhanced profiles_test_data.csv with career goals (from the API) and intermediate positions (from the MML model) included.
+- `output.txt`: An example output from one of our notebook runs, showcasing the expected results and format.
+- `README.md`: This file, providing an overview and setup instructions.
+
+
 ## Running the Notebook
 
 After setting up your credentials in the notebook:
