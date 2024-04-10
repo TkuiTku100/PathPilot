@@ -1,0 +1,25 @@
+From a posiotion of 'intern data analyst', with an education in 'Data science' and your personality questionnaire here are 3 possible career paths you might like to explore:
+
+
+Pilot Path to becoming a 'Data Analytics Manager':
+    intern data analyst  ->  Data engineer  ->  Data Analytics Manager
+
+    Here are some recommended LinkedIn courses and Skills that will help you advance in the path:
+    - Data engineer: Data Engineering Foundations, Learning Hadoop,  Tableau
+    - Data Analytics Manager: Machine Learning with Logistic Regression in Excel,  R,  and Power BI
+
+
+Pilot Path to becoming a 'Data Scientist':
+    intern data analyst  ->  Data engineer  ->  Senior data engineer  ->  Data Scientist
+
+    Here are some recommended LinkedIn courses and Skills that will help you advance in the path:
+    - Data engineer: Data Engineering Foundations, Learning Hadoop,  Tableau
+    - Senior data engineer: Data Engineering Foundations,  and Spark
+    - Data Scientist:  R,  Tableau
+
+
+Pilot Path to becoming a 'Business Analyst':
+    intern data analyst  ->  Business Analyst
+
+    Here are some recommended LinkedIn courses and Skills that will help you advance in the path:
+    - Business Analyst: Courses & Skills were not found. We recommend to look into 'Business Analyst' LinkedIn profiles.
