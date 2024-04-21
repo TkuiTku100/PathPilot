@@ -21,9 +21,11 @@ Before you can run the notebook, ensure you have the following:
 
 1. **Download the Repository**: Click on the "Code" button and download the ZIP file or clone the repository using Git.
 
-2. **Upload Files to Databricks**: Upload the notebook and CSV files to your Databricks workspace.
+2. **Download Data from Drive**: Enter the link in the excel sheet, and download the file "urls_and_skills2.csv" from the drive.
 
-3. **Insert Your Credentials**: Open the notebook in Databricks. In the first cell, you will need to replace the placeholders with your specific details:
+3. **Upload Files to Databricks**: Upload the notebook and CSV files to your Databricks workspace.
+
+4. **Insert Your Credentials**: Open the notebook in Databricks. In the first cell, you will need to replace the placeholders with your specific details:
    - `api_key`: Your Gemini API key.
    - `path_to_test_data`: The path to the "data_profiles_test.csv" file.
    - `path_to_scraped_data`: The path to the "urls_and_skills_2.csv" file.
